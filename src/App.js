@@ -5,7 +5,6 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1> hello again react</h1>
       </header>
     </div>
   );
